@@ -3,13 +3,13 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/matheus-tsuji-carneiro/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:matheustcar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://SEU_PORTFOLIO_AQUI">
+  <a href="https://github.com/Matheus-Tsuji">
     <img src="https://img.shields.io/badge/Portfólio-181717?style=flat-square&logo=github&logoColor=white" alt="Portfólio" />
   </a>
 </div>
